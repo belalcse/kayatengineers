@@ -35,6 +35,8 @@
 
 <script type="text/javascript" src="{{ url('assets/js/jquery.min.js') }}"></script>
 <script type="text/javascript" src="{{ url('assets/js/bootstrap.min.js') }}"></script>
+<script type="text/javascript" src="{{ url('assets/js/owl.carousel.min.js') }}"></script>
+<script type="text/javascript" src="{{ url('assets/js/wow.min.js') }}"></script>
 <script type="text/javascript" src="{{ url('assets/js/active.js') }}"></script>
 </body>
 </html>

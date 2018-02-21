@@ -7,6 +7,8 @@
   <title>@yield('page_title', 'Kayat Engineers')</title>
   <link rel="stylesheet" href="{{ url('assets/css/bootstrap.min.css') }}">
   <link rel="stylesheet" href="{{ url('assets/css/font-awesome.min.css') }}">
+  <link rel="stylesheet" href="{{ url('assets/css/owl.carousel.min.css') }}">
+  <link rel="stylesheet" href="{{ url('assets/css/animate.css') }}">
   <link rel="stylesheet" href="{{ url('assets/css/custom.css') }}">
 
   <!--favicon-->

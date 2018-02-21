@@ -11,5 +11,8 @@
       </div>
     </div>
   </div>
+    <div class="services-area section-padding">
+        <h1>Page Is Under Construction</h1>
+    </div>
 
 @endsection
